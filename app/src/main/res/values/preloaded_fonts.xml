@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <array name="preloaded_fonts" translatable="false">
+        <item>@font/</item>
+        <item>@font/archivo_bold</item>
+        <item>@font/audiowide</item>
+        <item>@font/chonburi</item>
+        <item>@font/hind_guntur_bold</item>
+        <item>@font/poppins</item>
+        <item>@font/roboto</item>
+    </array>
+</resources>

@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">Raite2023</string>
+
+    <string-array name="task_choices">
+        <item>Eat breakfast</item>
+        <item>Drink a Glass of Water</item>
+        <item>Eat lunch</item>
+        <item>Eat dinner</item>
+
+    </string-array>
+</resources>
